@@ -15,5 +15,5 @@ of this software
 
 edit, merge or copy  
 
-This does not mean you can publish you shall keep the menu private  
-unless given permission by anyone associated with documentation to this code 
+This does not mean you can publish you may keep the menu private  
+unless given permission by anyone associated with the following documentation
